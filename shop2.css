@@ -56,10 +56,11 @@ body {
     position: relative;
     left: 66%;
     top:-31px;
+    display: block;
 }
 .text {
     width: 75%;
-    left:15px;
+    left:20px;
     top:5px;
     height: 40px;
     position: relative;
@@ -80,7 +81,14 @@ body {
     top: 10px;
     left: 10px;
 }
-
+.logo {
+    position: relative;
+    top:15px;
+    left: 15px;
+}
+.input {
+    height: 50px;
+}
 
 
 
