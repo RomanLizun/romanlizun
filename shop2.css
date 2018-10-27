@@ -64,10 +64,22 @@ body {
     height: 40px;
     position: relative;
     border: 1px solid #2c71b8;
+    font-size: 15px;
 }
-
-
-
+.buy {
+    width: 40px;
+    position: relative;
+    left: 85%;
+    display: block;
+    height: 40px;
+    background-color: white;
+    top: -65px;
+}
+.buyimg {
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
 
 
 
