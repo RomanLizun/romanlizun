@@ -98,6 +98,7 @@ ul.submenu {
     top: 50px;
     background-color: white;
     border: none;
+    margin-inline-start: -1px;
 }
 ul.submenu > li {
     display: block;
