@@ -306,8 +306,83 @@ ul.submenu > li:hover {
     font-weight: 700;
     margin-top: 10px;
 }
-
-
+.text-dev {
+    text-align: left;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.text-info b {
+    font-size: 40px;
+    color: white;
+    font-weight: 800;
+}
+.text-info p {
+    font-size: 25px;
+    color: white;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.text-info-2 b {
+    font-size: 28px;
+    color: white;
+    font-weight: 800;
+}
+.text-info-2 p {
+    font-size: 20px;
+    color: white;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.text-info-3 b {
+    font-size: 28px;
+    color: white;
+    font-weight: 800;
+}
+.text-info-3 p {
+    font-size: 22px;
+    color: white;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.details {
+    height: 50px;
+    width: 210px;
+    margin-top: 20px;
+    margin-left: 25px;
+    background: #2C71B8;
+    border:none;
+    outline: 1px solid white;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+}
+.add {
+    height: 50px;
+    width: 210px;
+    margin-top: 15px;
+    margin-left: 25px;
+    background: #2C71B8;
+    border:none;
+    outline: 1px solid white;
+    color: white;
+    font-size: 20px;
+    font-weight: 550;
+    
+}
+.price {
+    margin-top: 10px;
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+.price sup {
+    vertical-align: super;
+    font-size: 20px;
+}
 
 
 
