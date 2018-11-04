@@ -18,6 +18,12 @@ body {
 .col-md-6 {
     width: 50%;
 }
+.col-md-9 {
+    width: 75%;
+}
+.col-md-12 {
+    width: 100%;
+}
 .row:after {
     content: "";
     clear: both;
@@ -138,16 +144,161 @@ ul.submenu > li:hover {
     color: white;
     top: -10px;
     left: -8px;
+    padding: 4px 4px;
+    font-size: 14px;
 }
+.menu >li:hover > a {
+    background-color: #2c71b8;
+    color: white;
+}
+.slider {
+    height: 400px;
+    outline: 1px solid black;
+    margin-top: 26px;
+}
+.main {
+    width: 1170px;
+    margin: 0 auto;
+    display: block;
+}
+.device {
 
-
-
-
-
-
-
-
-
+}
+.tv {
+    outline: 1px solid wheat;
+    height: 655px;
+    margin-top: 40px;
+    display: block;
+    width: 30%;
+    position: relative;
+    background-color: rgba(7, 95, 182, 0.1);
+}
+.box {
+    outline: 1px solid white;
+    display: block;
+    height: 655px;
+    display: block;
+    width: 30%;
+    margin-top: 40px;
+    position: relative;
+    background-color: rgba(7, 95, 182, 0.1);
+}
+.watch {
+    outline: 1px solid white;
+    display: block;
+    height: 655px;
+    display: block;
+    width: 30%;
+    margin-top: 40px;
+    position: relative;
+    background-color: rgba(7, 95, 182, 0.1);
+}
+.nav {
+    padding: 20px 0 0 27px;
+    color: white;
+    font-size: 18px;
+    height: 70px;
+}
+.nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+.device > div {
+    float: left;
+    margin-left: 29px;
+}
+.img-tv {
+    height: 180px;
+    width: 100%;
+    background: rgba(255,255,255,0.7);
+    padding: 50px 0 0 85px;
+}
+.img-box {
+    height: 180px;
+    width: 100%;
+    background: rgba(255,255,255,0.7);
+    padding: 50px 0 0 78px;
+}
+.img-watch {
+    height: 180px;
+    width: 100%;
+    background: rgba(255,255,255,0.7);
+    padding: 45px 0 0 100px;
+}
+.squad {
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    background-image: url(images/squad.png);
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-position: center;
+    left: 225px;
+    top: 7px;
+    outline: 1px solid #2c71b8
+}
+.heart {
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    background-image: url(images/heart.png);
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-position: center;
+    left: 225px;
+    top: 40px;
+    outline: 1px solid #2c71b8;
+    margin-top: 5px;
+}
+.img-note {
+    height: 180px;
+    width: 100%;
+    background: rgba(255,255,255,0.7);
+    padding: 60px 0 0 80px;
+}
+.img-mp3 {
+    height: 180px;
+    width: 100%;
+    background: rgba(255,255,255,0.7);
+    padding: 45px 0 0 100px;
+}
+.img-phone {
+    height: 180px;
+    width: 100%;
+    background: rgba(255,255,255,0.7);
+    padding: 45px 0 0 100px;
+}
+.img-phone-2 {
+    height: 180px;
+    width: 100%;
+    background: rgba(255,255,255,0.7);
+    padding: 45px 0 0 100px;
+}
+.img-box-2 {
+    height: 180px;
+    width: 100%;
+    background: rgba(255,255,255,0.7);
+    padding: 45px 0 0 80px;
+}
+.img-box-2 {
+    height: 180px;
+    width: 100%;
+    background: rgba(255,255,255,0.7);
+    padding: 45px 0 0 80px;
+}
+.img-watch-2 {
+    height: 180px;
+    width: 100%;
+    background: rgba(255,255,255,0.7);
+    padding: 45px 0 0 100px;
+}
+.text-2 {
+    padding: 0 0 0 25px;
+    font-size: 50px;
+    color: white;
+    font-weight: 600;
+}
 
 
 
