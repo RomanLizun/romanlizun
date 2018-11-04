@@ -299,6 +299,13 @@ ul.submenu > li:hover {
     color: white;
     font-weight: 600;
 }
+.device h1 {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 10px;
+}
 
 
 
